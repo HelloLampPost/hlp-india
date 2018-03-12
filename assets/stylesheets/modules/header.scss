@@ -47,11 +47,10 @@ header {
 		a {
 			color: $colorTwo;
 			font-size: 1.1em;
-			font-weight: 700;
+			font-weight: 600;
 			font-family: gotham-bold;
 			cursor: pointer;
 			border-bottom: 2px solid $colorOne;
-			text-transform: uppercase;
 		}
 
 		a:hover {

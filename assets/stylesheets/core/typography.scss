@@ -44,7 +44,7 @@
 // =================================================================
 
 body {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: $base-font-family;
 	font-size: 18px;
 
 	@include mq("medium", "max-width") {
@@ -64,11 +64,10 @@ body {
 	}
 }
 
-h1{
+h1, h2, h3, h4 {
   font-weight: inherit;
   line-height: 1.4;
   font-family: "Gotham-bold", sans-serif;
-  text-transform: uppercase;
 }
 
 h1 {
@@ -77,24 +76,19 @@ h1 {
 
 h2 {
 	font-size: 1.44em;
-  	font-family: Helvetica, Arial, sans-serif;
 }
 
 h3 {
 	font-size: 1.2em;
-  	font-family: Helvetica, Arial, sans-serif;
 }
 
 h4 {
 	font-size: 1em;
-	font-weight: 600;
-  	font-family: "Gotham-bold", sans-serif;
-  	text-transform: uppercase;
+	font-family: "Gotham", sans-serif;
 }
 
 h5 {
 	font-size: 1em;
-  	font-family: Helvetica, Arial, sans-serif;
 	display: block;
 	padding: 10px 15px;
 	border: 1px solid #fff;
@@ -113,9 +107,6 @@ p {
 	color: $colorType;
 	line-height: 1.5em;
 	padding: 0.4em 0 0.4em 0;
-	font-weight: 200;
-	line-height: 1.4;
-	letter-spacing: .4px;
 }
 
 ul li {
@@ -133,6 +124,10 @@ p.large {
 	font-size: 1.2em;
 	line-height: 1.3;
 	color: #3F3F3F;
+}
+
+span.bold {
+	font-family: "Gotham-bold", sans-serif;
 }
 
 ol, ul {
