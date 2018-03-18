@@ -1,0 +1,51 @@
+en:
+  logo: <img src="/images/en-logo.svg"/>
+
+  hello_astana: "Hello India"
+  home_title: "Hello India"
+
+  how_it_works_link: "How It Works"
+  information_link: "Information"
+  contact_link: "Contact"
+  
+  description: "Objects across 4 Indian cities are waking up and they want to talk to you!"
+  opening_line: "Live from March 31st to April 28th 2018."
+  how_it_works: "How It Works"
+
+  pick_an_object: "Choose an Object"
+  pick_an_object_text: "Look out for a street object with a code on it."
+
+  say_hello: "Say Hello"
+  say_hello_text: "Send a text to insert number in this format: “Hello” + object type + #code e.g. “Hello Bin #B6291”."
+
+  keep_talking: "Keep Talking"
+  keep_talking_text: "You’ll soon get a reply. Answer the object’s questions and learn what other people have to say."
+
+  information: "About Hello Lamp Post"
+  information_title: "Have you ever wondered what it would be like to talk to the city that you live in?"
+  information_text: "Around the world, cities have been waking up and talking to their residents (Japan, Singapore, UK, Kazakhstan, France and the USA)."
+  infomation_text_2: "Now 4 cities across India are coming to life and want to learn everything there is to know about their residents stories and connections with the UK. e.g. Where is everyone rushing off to in the mornings? Where are the best places to meet friends and hang out? What was here before? What are everyone’s dreams for the future?"
+  information_cta_1: "Show More"
+  information_cta_2: "Show Less"
+
+  more_information: "More Information"
+  more_information_text_1: "If you look closely, most street objects have a manufacturer or maintenance reference code on them. These codes are used by operators to distinguish one object from another."
+  more_information_text_2: "Hello Lamp Post gives a new use to these existing codes by allowing localised conversations in public spaces."
+  more_information_text_3: "You can have a chat with any object - drain covers, bins, public toilets, utility boxes, trees and bike stations."
+  more_information_text_4: "The interaction takes the form of a conversation. The objects are curious about the world they find themselves in and want to ask you questions about it. The response they receive are then shared with other players meaning an object understands the personality and people of the local area."
+  more_information_text_5: "Conversations can be started from any mobile phone that sends text (SMS) messages. It’s free to play (standard SMS and data rates apply) and it’s suitable for all ages."
+  
+  contact_us: "About Us"
+  contact_us_title: "About Hello India"
+  contact_us_text_1: "Hello Lamp Post India will run between 31st March to 28th April 2018, in partnership with the British Council India."
+  contact_us_text_2: "Hello Lamp Post was built by PAN Studio and was first commissioned for Watershed’s Playable City Award 2013, which ran for 8 weeks in Bristol. The project was developed with Tom Armitage and Gyorgyi Galik"
+  contact_us_text_3: "If you have any questions about the project you can get in touch with us using the link below."
+  contact_us_text_4: ""
+  contact_us_cta: "Get In Touch"
+  
+  hello_lampost_brighton: "Talk to the Dinosaur sculpture! Text: \"Hello Dinosaur #MESA23\" to (480) 800-0405"
+  hello_lampost_austin: "Speak to a Lamp Post! Text: \"Hello Lamp Post #MESA3\" to (480) 800-0405"
+  hello_lampost_singapore: "Chat with a Trash Can! Text: \"Hello Trash Can #MESA24\" to (480) 800-0405"
+  hello_lampost_bristol: "Speak to a Lamp Post! Text: \"Hello Lamp Post #MESA3\" to (480) 800-0405"
+
+  to_top: "To Top"
