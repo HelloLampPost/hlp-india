@@ -13,13 +13,13 @@ en:
   how_it_works: "How It Works"
 
   pick_an_object: "Choose an Object"
-  pick_an_object_text: "Look out for a street object with a code on it."
+  pick_an_object_text: "Find a street object with a unique code on it."
 
   say_hello: "Say Hello"
-  say_hello_text: "Send a text to insert number in this format: “Hello” + object type + #code e.g. “Hello Bin #B6291”."
+  say_hello_text: "Open the Messenger app and search for “HelloIndia2018”. <br><br> Send it a message in this format: “Hello + Object Name + #Code”"
 
   keep_talking: "Keep Talking"
-  keep_talking_text: "You’ll soon get a reply. Answer the object’s questions and learn what other people have to say."
+  keep_talking_text: "You’ll soon get a reply! <br><br> Answer the object’s questions to follow the conversation."
 
   information: "About Hello Lamp Post"
   information_title: "Have you ever wondered what it would be like to talk to the city that you live in?"
