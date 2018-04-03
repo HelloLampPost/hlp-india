@@ -16,7 +16,7 @@ en:
   pick_an_object_text: "Find a street object with a unique code on it."
 
   say_hello: "Say Hello"
-  say_hello_text: "Open the Messenger app and search for “HelloIndia2018”. <br><br> Send it a message in this format: “Hello + Object Name + #Code”"
+  say_hello_text: "Open the Messenger app and search for “@HelloIndia2018”. <br><br> Send it a message in this format: “Hello + Object Name + #Code”"
 
   keep_talking: "Keep Talking"
   keep_talking_text: "You’ll soon get a reply! <br><br> Answer the object’s questions to follow the conversation."
