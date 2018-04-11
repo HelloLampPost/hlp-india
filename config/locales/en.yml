@@ -16,7 +16,7 @@ en:
   pick_an_object_text: "Find a street object with a unique code on it."
 
   say_hello: "Say Hello"
-  say_hello_text: "Open the Messenger app and search for “@HelloIndia2018”. <br><br> Send it a message in this format: “Hello + Object Name + #Code”"
+  say_hello_text: "Open the Messenger app and search for \"@HelloIndia2018\". <br><br> Send it a message in this format: \"Hello + Object Name + #Code\""
 
   keep_talking: "Keep Talking"
   keep_talking_text: "You’ll soon get a reply! <br><br> Answer the object’s questions to follow the conversation."
@@ -33,7 +33,7 @@ en:
   more_information_text_2: "Hello Lamp Post gives a new use to these existing codes by allowing localised conversations in public spaces."
   more_information_text_3: "You can have a chat with many objects - including buildings and taxis."
   more_information_text_4: "The interaction takes the form of a conversation. The objects are curious about the world they find themselves in and want to ask you questions about it. The response they receive are then shared with other players meaning an object understands the personality and people of the local area."
-  more_information_text_5: "Conversations can be started from any device using Facebook Messenger to search for "\@HelloIndia". It’s free to play and suitable for all ages!"
+  more_information_text_5: "Conversations can be started from any device by opening Facebook Messenger and searching for \"@HelloIndia\". It’s free to play and suitable for all ages!"
   
   contact_us: "About Us"
   contact_us_title: "About Hello India"
